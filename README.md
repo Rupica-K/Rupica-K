@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rupica! 👋
 
-<!--
-**Rupica-K/Rupica-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Computer Science student at SRM, focused on building AI-driven products, smart automation systems, and user-centric digital experiences. I enjoy exploring new ideas, turning them into practical solutions, and continuously learning through hands-on development.
 
-Here are some ideas to get you started:
+![Rupica-K's Stats](https://github-readme-stats.vercel.app/api?username=Rupica-K&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science student at SRM  
+- 🛠️ Building AI-powered products and automation-driven applications  
+- 🌱 Continuously learning and improving through hands-on projects  
+
+## 🧩 Tech Stack  
+
+[![My Skills](https://skillicons.dev/icons?i=python,react,nextjs,nodejs,postgres,figma,ps,git,github)](https://skillicons.dev)
+
+ ## 🏆 Achievements
+
+- 🥇 Won **Best Product Award** at a hackathon organized by Alexa Developers SRM  
+- 🎤 Core team member in organizing a hackathon with **2000+ registrations**  
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀

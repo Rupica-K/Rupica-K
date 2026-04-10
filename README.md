@@ -10,7 +10,7 @@ I am a B.Tech Computer Science student at SRM, focused on building AI-driven pro
 
 ## 🧩 Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,react,nextjs,nodejs,figma,ps,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,figma,ps,react,nextjs,nodejs,ts,git,github)](https://skillicons.dev)
 
  ## 🏆 Achievements
 
